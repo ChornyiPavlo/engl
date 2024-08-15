@@ -131,7 +131,9 @@ h1 {
   padding: 60px 0;
   text-align: center;
 }
-
+.tariff {
+  padding: 160px 0!important;
+}
 .pricing-item {
   background-color: #fff;
   border: 1px solid #ddd;
@@ -190,6 +192,9 @@ h1 {
   }
   nav ul li {
     margin-bottom: 20px;
+  }
+  .tariff {
+    padding: 30px 0!important;
   }
 }
 
